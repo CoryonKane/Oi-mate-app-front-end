@@ -1,2 +1,2 @@
-# Q-A react
-Backand repo link: https://github.com/LJoel777/Q-A_spring_boot/tree/master
+# Oi Mate Social App front end
+Backand repo link: https://github.com/CoryonKane/Oi-mate-app-back-end
